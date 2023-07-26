@@ -11,6 +11,7 @@ def shortest_chess_game():
     print("2... e5")
     print("1... Qh4#")
 
+
 def main():
     shortest_chess_game()
 
